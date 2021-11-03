@@ -1,9 +1,9 @@
 # hotel-booking
 
 ## Live Demo
-```
+
 https://week-2-hotel-reservation-feyzabiber.vercel.app/
-```
+
 
 ## Project setup
 ```
