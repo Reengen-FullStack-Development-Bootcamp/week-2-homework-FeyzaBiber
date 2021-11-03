@@ -1,0 +1,38 @@
+[
+   {
+      "id": 1001,
+      "title": "Bates Motel",
+      "stars": 1,
+      "location":"very far away",
+      "Capacity": 8,
+      "Price": 100,
+      "image": "hotel1.png"
+   },
+   {
+      "id": 2002,
+      "title": "Hilton Hotel",
+      "stars": 2,
+      "location":"very close",
+      "capacity": 8,
+      "price": 200,
+      "image": "hotel2.png"
+   },
+   {
+      "id": 3003,
+      "title": "Hotel Malibu",
+      "stars": 3,
+      "location":"Malibu",
+      "capacity": 8,
+      "price": 300,
+      "image": "hotel3.png"
+   },
+   {
+      "id": 4004,
+      "title": "Hotel Vegas",
+      "stars": 4,
+      "location":"Vegas",
+      "capacity": 8,
+      "price": 400,
+      "image": "hotel4.png"
+   }
+]
